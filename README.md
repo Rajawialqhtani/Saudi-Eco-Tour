@@ -1,20 +1,47 @@
-# Saudi Eco Tour
+# 🌿 Saudi Eco Tour
 
-A mobile application designed for ecotourism in Saudi Arabia. It helps users discover and plan visits to ecological and historical sites in alignment with Vision 2030.
+A mobile application for promoting eco-tourism in Saudi Arabia. This project was developed as a graduation project at Princess Nourah Bint Abdulrahman University.
 
-## Features
-- Explore top-rated ecological and historical tourist places.
-- View details such as location, reviews, and available visiting times.
-- Submit feedback, reviews, and suggestions.
-- Request to add new tourist locations.
+---
 
-## Tech Stack
-- **Frontend**: Flutter
-- **Backend**: Firebase (Firestore, Storage)
-- **Programming Language**: Dart
-- **Database**: NoSQL (Firestore)
+## 📄 Final Report
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<Rajawialqhtani>/Saudi-Eco-Tour.git
+[📥 Download the Final Project Report](./docs/Saudi-Eco-Tour-FinalReport.pdf)
+
+---
+
+## 🧑‍🎓 Project Team
+
+- Ruba Mohameed Alyouseef
+- Rawan Saif Aldosery
+- Afnan Saad Alotaibi
+- **Rajawi Alqhtani**
+- Ebtehal Almohaimeed
+
+👩‍🏫 Supervised by: Dr. Faten Ben Hmida, Dr. Wided Chaari
+
+---
+
+## 🎓 University
+
+Princess Nourah Bint Abdulrahman University  
+Faculty of Computer and Information Science  
+Graduation Project 2 — Computer Science
+
+---
+
+## 🧭 Project Overview
+
+**Saudi Eco Tour** is a mobile application that enables users to:
+- Explore natural and historical sites in Saudi Arabia
+- Read reviews and see maps of tourist locations
+- Submit new places and events
+- Support eco-friendly travel and Vision 2030
+
+---
+
+## 📌 Tech Stack (Planned/Used)
+
+- Flutter (Dart)
+- Firebase (Auth, Firestore)
+- Google Maps API
