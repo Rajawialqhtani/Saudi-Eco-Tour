@@ -210,14 +210,6 @@ This project includes comprehensive documentation covering:
 - **Faculty of Computer and Information Science** for the comprehensive curriculum
 - **Saudi Tourism Authority** for inspiration and cultural insights
 - **Flutter and Firebase communities** for extensive documentation and support
-
-## 📞 Contact Information
-
-**Project Team Lead:** Rajawi Alqhtani  
-**Institution:** Princess Nourah Bint Abdulrahman University  
-**Faculty:** Computer and Information Science  
-**Program:** Bachelor of Computer Science
-
 ---
 
 <div align="center">
