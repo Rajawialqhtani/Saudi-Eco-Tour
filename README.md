@@ -33,7 +33,7 @@ Saudi Eco Tour is a comprehensive mobile application designed to promote sustain
 
 | Name | Role |
 |------|------|
-| **Rajawi Alqhtani** | Project Lead |
+| **Rajawi Alqhtani** | Developer |
 | Ruba Mohameed Alyouseef | Developer |
 | Rawan Saif Aldosery | Developer |
 | Afnan Saad Alotaibi | Developer |
