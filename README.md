@@ -100,40 +100,49 @@ Our application implements a **Multi-Layer Architecture** pattern, chosen for it
 
 ## 📸 Application Showcase
 
-### System Architecture
-![System Architecture](https://github.com/user-attachments/assets/5c224217-2b20-48eb-9ac9-066d7b9969b3)
-*Multi-layer architecture design showcasing the app's technical foundation*
+### System Architecture Overview
 
-### Authentication & User Onboarding
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7115df4c-6e0e-4930-9a7e-d69230216282" alt="Welcome & Login" width="250"/>
-  <img src="https://github.com/user-attachments/assets/65d8a720-4d37-44da-99bb-8465bc111cfd" alt="Registration & Activation" width="250"/>
-  <img src="https://github.com/user-attachments/assets/acfa2afd-beac-45eb-95bd-1f8ab67b0276" alt="Sign-In & Homepage" width="250"/>
-</div>
+| Architecture Diagram | Description |
+|:---------------------:|-------------|
+| ![System Architecture](https://github.com/user-attachments/assets/5c224217-2b20-48eb-9ac9-066d7b9969b3) | **Multi-Layer Architecture Design**<br/>Comprehensive system architecture showcasing the separation of concerns across presentation, business, data access, and database layers. This design ensures scalability, security, and maintainability of the application. |
 
-*Splash screen, user registration, account activation, and main dashboard*
+---
 
-### Place Discovery & Navigation
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/dda5e8f1-fc29-46ef-abd8-ec741d51aa82" alt="Top Places & Details" width="250"/>
-  <img src="https://github.com/user-attachments/assets/4cf2a285-bf94-44bf-8936-e5d5cfe9c434" alt="Map & Categories" width="250"/>
-  <img src="https://github.com/user-attachments/assets/735c8300-96e4-4ae5-ba30-1ed4818fcb05" alt="Events & Categories" width="250"/>
-</div>
+### User Authentication & Onboarding Flow
 
-*Browse top-rated destinations, interactive maps, category filtering, and local events*
+| Screen | Image | Description |
+|--------|:-----:|-------------|
+| **Splash & Welcome** | <img src="https://github.com/user-attachments/assets/7115df4c-6e0e-4930-9a7e-d69230216282" alt="Welcome & Login" width="200"/> | Initial app launch experience with splash screen and welcoming interface for new users. Clean, engaging design that introduces the Saudi Eco Tour brand. |
+| **User Registration** | <img src="https://github.com/user-attachments/assets/65d8a720-4d37-44da-99bb-8465bc111cfd" alt="Registration & Activation" width="200"/> | Comprehensive registration process with account activation. Secure user onboarding with email verification and profile setup functionality. |
+| **Sign-In & Dashboard** | <img src="https://github.com/user-attachments/assets/acfa2afd-beac-45eb-95bd-1f8ab67b0276" alt="Sign-In & Homepage" width="200"/> | User authentication interface and main application dashboard. Provides easy access to all core features and personalized user experience. |
 
-### User Engagement & Support
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5c928632-c433-4ea5-aa08-ee0e50762765" alt="Feedback System" width="250"/>
-  <img src="https://github.com/user-attachments/assets/be572263-d352-442a-ab1a-5d8383a2a144" alt="Support & Account" width="250"/>
-  <img src="https://github.com/user-attachments/assets/7f0c4a85-25d2-4cb8-bbb7-9ede51393c5e" alt="Profile & Add Place" width="250"/>
-</div>
+---
 
-*Feedback submission, customer support, account management, and place contribution*
+### Place Discovery & Exploration Features
 
-### Content Management System
-![Place Submission Workflow](https://github.com/user-attachments/assets/2c8f1c0f-db79-4f9c-a161-71d25b947f81)
-*Complete workflow for users to submit and manage new tourist destinations*
+| Feature | Image | Description |
+|---------|:-----:|-------------|
+| **Top Places & Details** | <img src="https://github.com/user-attachments/assets/dda5e8f1-fc29-46ef-abd8-ec741d51aa82" alt="Top Places & Details" width="200"/> | Curated list of top-rated eco-tourism destinations with detailed information, ratings, and reviews. Users can explore comprehensive place profiles with photos and visitor insights. |
+| **Interactive Maps** | <img src="https://github.com/user-attachments/assets/4cf2a285-bf94-44bf-8936-e5d5cfe9c434" alt="Map & Categories" width="200"/> | Google Maps integration with location services and category-based filtering. Real-time navigation and geographical exploration of Saudi Arabia's natural and historical sites. |
+| **Events & Categories** | <img src="https://github.com/user-attachments/assets/735c8300-96e4-4ae5-ba30-1ed4818fcb05" alt="Events & Categories" width="200"/> | Event discovery system with categorized browsing options. Users can find local events, seasonal activities, and specialized eco-tourism experiences. |
+
+---
+
+### User Engagement & Support System
+
+| Function | Image | Description |
+|----------|:-----:|-------------|
+| **Feedback System** | <img src="https://github.com/user-attachments/assets/5c928632-c433-4ea5-aa08-ee0e50762765" alt="Feedback System" width="200"/> | Comprehensive feedback and suggestion submission platform. Users can share experiences, report issues, and contribute to application improvement. |
+| **Support & Account** | <img src="https://github.com/user-attachments/assets/be572263-d352-442a-ab1a-5d8383a2a144" alt="Support & Account" width="200"/> | Customer support center with call functionality and account management. Users can access help resources, contact support, and manage their profile settings. |
+| **Profile & Contributions** | <img src="https://github.com/user-attachments/assets/7f0c4a85-25d2-4cb8-bbb7-9ede51393c5e" alt="Profile & Add Place" width="200"/> | User profile management and place submission interface. Community-driven content where users can add new tourist destinations and share discoveries. |
+
+---
+
+### Content Management Workflow
+
+| Workflow Overview | Description |
+|:-----------------:|-------------|
+| ![Place Submission Workflow](https://github.com/user-attachments/assets/2c8f1c0f-db79-4f9c-a161-71d25b947f81) | **Complete Place Submission Process**<br/>End-to-end workflow demonstrating how users can submit new tourist destinations. Includes content validation, approval process, and integration into the main database. This feature enables community-driven expansion of Saudi Arabia's eco-tourism destinations. |
 
 ## 🌍 Vision 2030 Impact
 
