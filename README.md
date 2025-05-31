@@ -3,12 +3,12 @@
 A mobile application for promoting eco-tourism in Saudi Arabia. This project was developed as a graduation project at Princess Nourah Bint Abdulrahman University.
 
 ---
+## 📸 Screenshots
 
-## 📄 Final Report
+| Home Page | Place Details | Events | Add Place |
+|-----------|---------------|--------|-----------|
+| ![](./screenshots/signin_homepage.png) | ![](./screenshots/top_places_place_details.png) | ![](./screenshots/category_description_events.png) | ![](./screenshots/account_info_add_place.png) |
 
-[📥 Download the Final Project Report](./docs/Saudi-Eco-Tour-FinalReport.pdf)
-
----
 
 ## 🧑‍🎓 Project Team
 
